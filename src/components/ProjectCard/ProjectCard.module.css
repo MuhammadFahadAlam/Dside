@@ -1,0 +1,29 @@
+.main {
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.top{
+    text-align: center;
+}
+
+.project {
+	color: rgb(255, 255, 255);
+	padding: 20px;
+	font-size: 2.5em;
+}
+
+.heading {
+	color: rgb(255, 255, 255);
+	font-size: 1.5em;
+}
+
+.para{
+    color: rgb(243, 237, 237);
+    background-color: #e62b40;
+    padding: 12px 40px;
+    border-radius: 10px ;
+	font-size: 1em;
+}
